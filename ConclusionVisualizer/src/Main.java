@@ -1,6 +1,10 @@
 import java.util.concurrent.*;
 import java.awt.event.ActionEvent;
 
+import Core.CalculationEngine;
+import Core.Controller;
+import Core.Vision;
+
 public class Main
 {	
 	public static void main(String[] args)
@@ -16,4 +20,6 @@ public class Main
 }  
 
 /*TODO
+ * -MenuWindow Layout
+ * -MAYBE one window at a time in Vision
  */ 
